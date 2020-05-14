@@ -2,3 +2,8 @@ Git Commands:
 
 1) Git Clone
 2) Git Status
+3) Git add * -- Staging -to get the changes applied that are ready for a commit
+4) Git Commit -m "Some meaningful description of the work"
+5) Git push - to push the commits to server 
+6) Git pull - to pull latest changes from server
+7) origin/master - server branches will be prefixed with origin
