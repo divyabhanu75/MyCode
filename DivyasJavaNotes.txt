@@ -7,3 +7,5 @@ Git Commands:
 5) Git push - to push the commits to server 
 6) Git pull - to pull latest changes from server
 7) origin/master - server branches will be prefixed with origin
+8) Git fetch - check the status of commits in server and compare to local
+9) Git Pull - pulls the latest changes from server to local
